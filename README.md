@@ -60,5 +60,5 @@ Neste perfil, compartilho meus projetos, práticas e aprendizados — aqui é on
 
 ---
 
-<h3 align="center">💜 Desenvolvido com dedicação por mim, IgorDev</h3>
+<h3 align="center">Desenvolvido com dedicação por Igor Vinicius</h3>
 <p align="center"><i>"Transformando conhecimento em código e sonhos em realidade."</i></p>
