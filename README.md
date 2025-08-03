@@ -1,9 +1,5 @@
 <h1 align="center">👋 Olá! Eu sou o Igor Vinicius</h1>
-<h3 align="center">Desenvolvedor em formação no SENAI, apaixonado por tecnologia, backend e sistemas inteligentes.</h3>
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400px">
-</p>
+<h2 align="center">Desenvolvedor em formação no SENAI, apaixonado por tecnologia, backend e sistemas inteligentes.</h2>
 
 ---
 
