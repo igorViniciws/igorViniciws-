@@ -51,14 +51,6 @@ Neste perfil, compartilho meus projetos, práticas e aprendizados — aqui é on
 
 ---
 
-## 🌎 Links Úteis
-
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [Documentação HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [Documentação CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [Documentação JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-
----
 
 <h3 align="center">Desenvolvido com dedicação por Igor Vinicius</h3>
 <p align="center"><i>"Transformando conhecimento em código e sonhos em realidade."</i></p>
