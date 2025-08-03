@@ -1,5 +1,5 @@
-<h1 align="center">🚀 Igor Vinicius</h1>
-<h2 align="center">Bem-vindos ao meu portifólio!</h2>
+<h1 align="center">🚀 IgorDev - Desenvolvedor em formação</h1>
+<h2 align="center">Bem-vindo ao meu GitHub!</h2>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400px">
@@ -7,14 +7,15 @@
 
 ---
 
-## 👨‍🏫 Sobre Nosso Repositório
+## 👨‍💻 Sobre Mim
 
-Repositório oficial da Turma *2DA 2025 do SESI SENAI*, onde desenvolvemos projetos práticos e compartilhamos conhecimento em desenvolvimento de aplicações completas.  
-Aqui você encontrará desde conceitos fundamentais até projetos avançados com stack completa!
+Sou um desenvolvedor em formação, estudante de Desenvolvimento de Sistemas pelo SENAI.  
+Tenho 17 anos, sou apaixonado por tecnologia e estou em constante evolução para me tornar um profissional completo.  
+Neste perfil, compartilho meus projetos, práticas e aprendizados — aqui é onde coloco meu progresso em código.
 
 ---
 
-## 🚀 Nossa Stack Tecnológica
+## 🚀 Minha Stack Tecnológica
 
 ### 🌐 Frontend:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,7 +33,7 @@ Aqui você encontrará desde conceitos fundamentais até projetos avançados com
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 📱 Mobile:
-![Python Flet](https://img.shields.io/badge/Flet-000000?style=for-the-badge&logo=python&logoColor=white)
+![Flet](https://img.shields.io/badge/Flet-000000?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🛠️ Ferramentas:
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -41,7 +42,7 @@ Aqui você encontrará desde conceitos fundamentais até projetos avançados com
 
 ---
 
-## 📊 Estatísticas da Turma
+## 📊 Minhas Estatísticas
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical" />
@@ -50,13 +51,14 @@ Aqui você encontrará desde conceitos fundamentais até projetos avançados com
 
 ---
 
-## 🔗 Links úteis
+## 🌎 Links Úteis
 
-- [GitHub](https://github.com/SEU_USUARIO)
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [Documentações Oficiais](https://developer.mozilla.org/pt-BR/)
+- [Documentação HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [Documentação CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [Documentação JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ---
 
-<h3 align="center">💜 Desenvolvido com amor pela Turma 2DA - SESI SENAI</h3>
-<p align="center"><i>"Educação para a vida, tecnologia para o futuro!"</i></p>
+<h3 align="center">💜 Desenvolvido com dedicação por mim, IgorDev</h3>
+<p align="center"><i>"Transformando conhecimento em código e sonhos em realidade."</i></p>
