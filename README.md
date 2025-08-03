@@ -1,5 +1,5 @@
-<h1 align="center">🚀 Turma 2DA 2025 - SESI SENAI</h1>
-<h2 align="center">Bem-vindos à Turma 2DA 2</h2>
+<h1 align="center">Igor Vinicius</h1>
+<h2 align="center">Bem-vindos ao meu portifólio</h2>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400px">
