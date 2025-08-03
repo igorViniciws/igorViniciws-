@@ -1,4 +1,4 @@
-<h1 align="center">🚀 IgorDev - Desenvolvedor em formação</h1>
+<h1 align="center">👋 Olá! Eu sou o Igor Vinicius</h1>
 <h2 align="center">Bem-vindo ao meu GitHub!</h2>
 
 <p align="center">
